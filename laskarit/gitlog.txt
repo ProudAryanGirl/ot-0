@@ -1,3 +1,5 @@
+Virhetta odotellessa :)
+
 commit 0db7ebd6f8b9ea3858f925bea69fc327145e9007
 Author: ProudAryanGirl <proudaryangirl@protonmail.com>
 Date:   Thu Dec 17 01:02:40 2020 +0200
