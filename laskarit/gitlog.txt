@@ -1,0 +1,74 @@
+commit 0db7ebd6f8b9ea3858f925bea69fc327145e9007
+Author: ProudAryanGirl <proudaryangirl@protonmail.com>
+Date:   Thu Dec 17 01:02:40 2020 +0200
+
+    moms
+
+ eka.txt    | 1 +
+ kolmas.txt | 1 -
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+
+commit cf10b2a016a1821e22bbd9a71a3ef8842e481fa5
+Author: ProudAryanGirl <proudaryangirl@protonmail.com>
+Date:   Thu Dec 17 01:00:56 2020 +0200
+
+    eikohan toiminut
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 9f744014d9878dd3e6588a4d25bc595007d46749
+Author: ProudAryanGirl <proudaryangirl@protonmail.com>
+Date:   Thu Dec 17 00:59:45 2020 +0200
+
+    poistettud
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 6c2377d6751582198b8a61fd7c177df8522e0150
+Author: ProudAryanGirl <proudaryangirl@protonmail.com>
+Date:   Thu Dec 17 00:57:08 2020 +0200
+
+    hyvin pyyhkii
+
+ stuff/paskaa.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit ddae9ad9f629fdf2cada607a6be3b965e0f5961d
+Author: ProudAryanGirl <proudaryangirl@protonmail.com>
+Date:   Thu Dec 17 00:55:09 2020 +0200
+
+    paskaa mutta toimii
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 4d71a14b93008481dafd3df2e6986d16ae406036
+Author: ProudAryanGirl <proudaryangirl@protonmail.com>
+Date:   Thu Dec 17 00:54:28 2020 +0200
+
+    muutos ja lisäys
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 9c7e24103ead27131c2b5de97dbc4eec04d45baa
+Author: ProudAryanGirl <proudaryangirl@protonmail.com>
+Date:   Thu Dec 17 00:52:21 2020 +0200
+
+    muutos ja lisäys
+
+ toinen.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 584d116b21f8e8f71a47bd1c20a4ab9acb7e869f
+Author: ProudAryanGirl <proudaryangirl@protonmail.com>
+Date:   Thu Dec 17 00:50:58 2020 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
