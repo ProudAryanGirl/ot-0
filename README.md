@@ -1,0 +1,1 @@
+sekaisin on sanat
