@@ -1,0 +1,18 @@
+title 0.6: uusi muistiinpano
+
+note left of selain:
+Tässä siis ollaan jo valmiiksi ladattu se js
+end note
+selain->palvelin: HTTP POST /new_note_spa (JSON)
+palvelin-->selain: statuskoodi 201 created
+note over selain:
+JSON:in lähettämisen hoitaa selaimen lataamassa
+Js-tiedostossa määritelty koodi
+js:n avulla se formiin laitettu arvo on jo selaimessa
+(tapahtumankäsittelijä)
+end note
+note over selain:
+ lähetetään se json notes.push(note) serverille
+ end note
+selain->palvelin: HTTP POST /new_note_spa (jatkuu viestittely,ei ole uusi)
+

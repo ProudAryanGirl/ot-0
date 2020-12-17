@@ -1,0 +1,28 @@
+title 0.5 Single Page App
+
+selain->palvelin: HTTP get /spa
+
+palvelin-->selain: spa (html-koodi)
+selain->palvelin: HTTP GET /main.css
+palvelin-->selain: main.css
+selain->palvelin: HTTP GET /spa.js
+
+note over palvelin:
+Javascript koodipätkä servulta. 
+end note
+
+palvelin-->selain: spa.js
+selain->palvelin: HTTP GET /data.json
+
+note over palvelin:
+Hakee muistiinpanot palvelimelta JSON:na
+end note
+
+
+palvelin-->selain: data.json (sisältää content ja date)
+
+note over selain:
+lisää sen JSONIN html-elementin DOM-apia hyödyntäen
+end note
+
+
